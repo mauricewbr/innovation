@@ -9,11 +9,18 @@ https://www.startus-insights.com/innovators-guide/automotive-industry-trends-10-
 
 
 scihub
+
+
+Titel: Industry Innovation Automotive Series ~ Electrification
 1 Introduction
+The automotive industry has enjoyed years of sustaining profits and flowerishing markets. Despite periods of economic downturn, the market capitalization of the world's 5 biggest automotive manufacturers has gone up XX percent - growing XX percent faster than non-automative companies of the S&P500. 
+More recently, increasing pressure arises from environmental pushback forcing the automotive industry to adapt to more strict regulations and exhaust emission constraints. Thus, a Commerzbank analysis shows increasing innovation expenditures and thereby decreasing margins for OEMs (original equipment manufacturers) as well as for upstream suppliers.
+A second reason for innovative pressure has undisputably emerged from new technologies aimed at replacing the high-emission combustion engine.
+In that sense, the Battery Electric Vehicle ("BEV") has caused the incumbent manufacturers like BMW, Daimler, Toyota and Volkswagen to invest emense resources into researching what had been once been regarded as a nonsense project when Tesla first announced its fully electric luxury sedan Model S.
+However, the challenges which had first caused traditional OEMs to dismiss the idea of a BEV have been overcome to a large degree by Tesla and others.
 
 
 2 Status quo
-
 2.1 Hybrid
 
 2.2 Pure electric
@@ -23,7 +30,10 @@ scihub
 3 Automotive Electrification ~ 20 - 25 year outlook
 3.1 Current challenges and promising solutions
 
+3.2 Featured startups 
+
 4 Future technologies beyond electrification
+
 5 Discussion
 
 
