@@ -14,15 +14,20 @@ scihub
 Titel: Industry Innovation Automotive Series ~ Electrification
 1 Introduction
 The automotive industry has enjoyed years of sustaining profits and flowerishing markets. Despite periods of economic downturn, the market capitalization of the world's 5 biggest automotive manufacturers has gone up XX percent - growing XX percent faster than non-automative companies of the S&P500. 
-More recently, increasing pressure arises from environmental pushback forcing the automotive industry to adapt to more strict regulations and exhaust emission constraints. Thus, a Commerzbank analysis shows increasing innovation expenditures and thereby decreasing margins for OEMs (original equipment manufacturers) as well as for upstream suppliers.
+More recently, increasing pressure arises from pushback due to environmental concerns forcing the automotive industry to adapt to more strict regulations and exhaust emission constraints. Thus, a Commerzbank analysis shows increasing innovation expenditures and thereby decreasing margins for OEMs (original equipment manufacturers) as well as for upstream suppliers.
 A second reason for innovative pressure has undisputably emerged from new technologies aimed at replacing the high-emission combustion engine.
 In that sense, the Battery Electric Vehicle ("BEV") has caused the incumbent manufacturers like BMW, Daimler, Toyota and Volkswagen to invest emense resources into researching what had been once been regarded as a nonsense project when Tesla first announced its fully electric luxury sedan Model S.
 However, the challenges which had first caused traditional OEMs to dismiss the idea of a BEV have been overcome to a large degree by Tesla and others.
 
 
 2 Status quo
+According to an article of McKinsey's Automotive and Assembly Practice from late July 2020, Electric Vehicle ("EV") worldwide sales increased by 65 percent between 2017 and 2018. However, the increase significantly slowed down in 2019, when the overall EV sales grew by a mere 9 percent. Partly, the authors attenuate these findings by relating to a 5 percent decline in the overall light-vehicle market as well as pointing out eliminated or reduced subsidies in China. 
+Interestingly, EV market growth rates varied largely between China, Europe and the United States. While China's EV growth slowing down to 3 percent from 2018 to 2019, growth in the USA even declined from an astonishing 80 percent to a negative growth of -12 percent. All this, while the growth in Europe rose from 34 (2017-2018) to 44 percent (2018-2019), making Europe the second largest EV market in the world with 590,000 units sold (compared to 1.2 million units in China and 320,000 units in the USA).
+Notably, even despite COVID-19, EV market penetration rose by 0.3 percent in the first quarter of 2020 and is now at 2.8 percent. 
 
 2.1 Hybrid
+Hybrid-electric vehicles as well as plug-in hybrid-electric vehicles are forecasted to rise in sales volume over the next 5-10 years though growing underproportionately to BEVs. These findings are supported by multiple major industry insights like the aforementioned McKinsey article, AlixPartners Disruption Insights and market research reports like this one (links einfuegen).
+
 
 2.2 Pure electric
 
