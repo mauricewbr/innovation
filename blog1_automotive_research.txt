@@ -29,7 +29,7 @@ Notably, even despite COVID-19, EV market penetration rose by 0.3 percent in the
 Hybrid-electric vehicles as well as plug-in hybrid-electric vehicles are forecasted to rise in sales volume over the next 5-10 years though growing underproportionately to BEVs. These findings are supported by multiple major industry insights like the aforementioned McKinsey article, AlixPartners Disruption Insights and market research reports like this one (links einfuegen).
 
 
-2.2 Pure electric
+2.2 Battery electric vehicle
 
 
 3 Automotive Electrification ~ 20 - 25 year outlook
@@ -37,7 +37,7 @@ Hybrid-electric vehicles as well as plug-in hybrid-electric vehicles are forecas
 
 3.2 Featured startups 
 
-4 Future technologies beyond electrification
+(4 Future technologies beyond electrification)
 
 5 Discussion
 
