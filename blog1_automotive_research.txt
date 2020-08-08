@@ -26,14 +26,21 @@ Interestingly, EV market growth rates varied largely between China, Europe and t
 Notably, even despite COVID-19, EV market penetration rose by 0.3 percent in the first quarter of 2020 and is now at 2.8 percent. 
 
 2.1 Hybrid
-Hybrid-electric vehicles as well as plug-in hybrid-electric vehicles are forecasted to rise in sales volume over the next 5-10 years though growing underproportionately to BEVs. These findings are supported by multiple major industry insights like the aforementioned McKinsey article, AlixPartners Disruption Insights and market research reports like this one (links einfuegen).
-
+Hybrid-electric vehicles as well as plug-in hybrid-electric vehicles are forecasted to rise in sales volume over the next 5-10 years though growing underproportionately to BEVs. Furthermore, Ruth Heuss (McKinsey senior partner, Berlin) forecasts that the number of available hybrid-electric derivates will remain less than half of the number of available BEH derivates. She grounds this prediction in the fact that global HEV sales made less than 33% of the total EV sales in 2019. These findings are supported by multiple major industry insights like the aforementioned McKinsey article, AlixPartners Disruption Insights and market research reports like this one (links einfuegen). 
 
 2.2 Battery electric vehicle
-
+According to AlixPartners Disruption Insights 2020 on the automotive industry, sales of battery-electric vehicles and hybrid vehicles have increased by 85 percent from 2017 - 2019 which fits the data shown in the McKinsey article. Predictions of AlixPartners show an increase in both plug-in electric vehicle sales as well as in hybrid-electric vehicle sales, with battery-electric vehicles accounting for 13 percent of the global sales share in 2025. Therefore, virtually every automaker invests or is going to invest in electrification adding up to a total announced investment of 295 billion dollars for the years between 2019 and 2023. 
+These investments seem not to be arbitrary. An AlixPartners consumer survey (link einfuegen) revealed that more than one quarter of the surveyed group intended to buy a battery-electric vehicle as their next car. As expected, this intent does not come without concerns which the automotive industry has to address in order to turn the heavy investments into real sales. According to the aforementioned survey, consumers are especially concerned about cost, battery rangeconsumers are especially concerned about cost, battery range and charging infrastructure.
+How the traditional automakers as well as industry entrants might tackle these specific challenges is going to be further explained in the next section.
 
 3 Automotive Electrification ~ 20 - 25 year outlook
 3.1 Current challenges and promising solutions
+3.1.1 Costs
+
+
+3.1.2 Battery range
+
+3.1.3 Charging infrastructure
 
 3.2 Featured startups 
 
@@ -42,6 +49,11 @@ Hybrid-electric vehicles as well as plug-in hybrid-electric vehicles are forecas
 5 Discussion
 
 
+6 Citations
+
+https://www.mckinsey.com/~/media/McKinsey/Industries/Automotive%20and%20Assembly/Our%20Insights/McKinsey%20Electric%20Vehicle%20Index%20Europe%20cushions%20a%20global%20plunge%20in%20EV%20sales/McKinsey-Electric-Vehicle-Index-Europe-cushions-a-global-plunge-in-EV-sales-vF.pdf
+
+https://www.alixpartners.com/media/14637/ap_di_auto_2020.pdf
 
 
 
@@ -61,12 +73,4 @@ Hybrid-electric vehicles as well as plug-in hybrid-electric vehicles are forecas
 
 
 
-
-
-Fragen zum Physikstudium:
-1) Wie viel Zeit muss man waehrend des Semesters in die einzelnen Kurse investieren? => Nachbereitung, Assignments?
-2) Wie viel Zeit braucht man fuer die Vorbereitung der Klausuren?
-3) Wie sind die Klausuren typischerweise aufgebaut? Rechnen/ Argumentationen/ Beweise?
-4) Welche Uni studiert sie? Wie sind die Vorlesungen aufgebaut? Gibt es Tutorien? Wie ist die Atmosphaere unter den Studenten?
-5) 
 
