@@ -13,17 +13,18 @@ scihub
 
 Titel: Industry Innovation Automotive Series ~ Electrification
 1 Introduction
-The automotive industry has enjoyed years of sustaining profits and flowerishing markets. Despite periods of economic downturn, the market capitalization of the world's 5 biggest automotive manufacturers has gone up XX percent - growing XX percent faster than non-automative companies of the S&P500. 
+The automotive industry has enjoyed years of sustaining profits and flowerishing markets. Despite periods of economic downturn, the market capitalization of the world's 5 biggest automotive manufacturers has gone up XX percent - outpacing non-automotive companies in the S&P500 by XXX percent.
 More recently, increasing pressure arises from pushback due to environmental concerns forcing the automotive industry to adapt to more strict regulations and exhaust emission constraints. Thus, a Commerzbank analysis shows increasing innovation expenditures and thereby decreasing margins for OEMs (original equipment manufacturers) as well as for upstream suppliers.
 A second reason for innovative pressure has undisputably emerged from new technologies aimed at replacing the high-emission combustion engine.
 In that sense, the Battery Electric Vehicle ("BEV") has caused the incumbent manufacturers like BMW, Daimler, Toyota and Volkswagen to invest emense resources into researching what had been once been regarded as a nonsense project when Tesla first announced its fully electric luxury sedan Model S.
 However, the challenges which had first caused traditional OEMs to dismiss the idea of a BEV have been overcome to a large degree by Tesla and others.
-
+How is the rest of the article going to be structured? -> ...
 
 2 Status quo
-According to an article of McKinsey's Automotive and Assembly Practice from late July 2020, Electric Vehicle ("EV") worldwide sales increased by 65 percent between 2017 and 2018. However, the increase significantly slowed down in 2019, when the overall EV sales grew by a mere 9 percent. Partly, the authors attenuate these findings by relating to a 5 percent decline in the overall light-vehicle market as well as pointing out eliminated or reduced subsidies in China. 
-Interestingly, EV market growth rates varied largely between China, Europe and the United States. While China's EV growth slowing down to 3 percent from 2018 to 2019, growth in the USA even declined from an astonishing 80 percent to a negative growth of -12 percent. All this, while the growth in Europe rose from 34 (2017-2018) to 44 percent (2018-2019), making Europe the second largest EV market in the world with 590,000 units sold (compared to 1.2 million units in China and 320,000 units in the USA).
+According to an article of McKinsey's Automotive and Assembly Practice from late July 2020, Electric Vehicle ("EV") worldwide sales increased by 65 percent between 2017 and 2018. However, the increase significantly slowed down in 2019, when the overall EV sales grew by a mere 9 percent. Partly, the authors attenuate these findings by relating to a 5 percent decline in the overall light-vehicle market as well as pointing out reduced or eliminated subsidies in China. 
+Interestingly, EV market growth rates varied largely between China, Europe and the United States. While China's EV growth has slowed down to 3 percent from 2018 to 2019, growth in the USA even declined from an astonishing 80 percent to a negative growth of -12 percent. All this, while the growth in Europe rose from 34 (2017-2018) to 44 percent (2018-2019), making Europe the second largest EV market in the world with 590,000 units sold (compared to 1.2 million units in China and 320,000 units in the USA).
 Notably, even despite COVID-19, EV market penetration rose by 0.3 percent in the first quarter of 2020 and is now at 2.8 percent. 
+The following more detailed industry insights are drawn from three major sources, namely, the McKinsey EVI insights, the AlixPartners Disruption Insights and the McKinsey 'The road ahead for e-mobility' article. (links einfuegen) 
 
 2.1 Hybrid
 Hybrid-electric vehicles as well as plug-in hybrid-electric vehicles are forecasted to rise in sales volume over the next 5-10 years though growing underproportionately to BEVs. Furthermore, Ruth Heuss (McKinsey senior partner, Berlin) forecasts that the number of available hybrid-electric derivates will remain less than half of the number of available BEH derivates. She grounds this prediction in the fact that global HEV sales made less than 33% of the total EV sales in 2019. These findings are supported by multiple major industry insights like the aforementioned McKinsey article, AlixPartners Disruption Insights and market research reports like this one (links einfuegen). 
@@ -32,9 +33,11 @@ Hybrid-electric vehicles as well as plug-in hybrid-electric vehicles are forecas
 According to AlixPartners Disruption Insights 2020 on the automotive industry, sales of battery-electric vehicles and hybrid vehicles have increased by 85 percent from 2017 - 2019 which fits the data shown in the McKinsey article. Predictions of AlixPartners show an increase in both plug-in electric vehicle sales as well as in hybrid-electric vehicle sales, with battery-electric vehicles accounting for 13 percent of the global sales share in 2025. Therefore, virtually every automaker invests or is going to invest in electrification adding up to a total announced investment of 295 billion dollars for the years between 2019 and 2023. 
 These investments seem not to be arbitrary. An AlixPartners consumer survey (link einfuegen) revealed that more than one quarter of the surveyed group intended to buy a battery-electric vehicle as their next car. As expected, this intent does not come without concerns which the automotive industry has to address in order to turn the heavy investments into real sales. According to the aforementioned survey, consumers are especially concerned about cost, battery rangeconsumers are especially concerned about cost, battery range and charging infrastructure.
 How the traditional automakers as well as industry entrants might tackle these specific challenges is going to be further explained in the next section.
+A second consumer survey conducted by McKinsey enhances these concerns by ... . Altogehter, these concerns impose strict challenges onto the automotive industry as consumer demands are unlikely to increase substantially without tangiable responses to the consumer needs. 
+So what are the most probable ways automakers are going to deal with said concerns?
 
 3 Automotive Electrification ~ 20 - 25 year outlook
-3.1 Current challenges and promising solutions
+3.1 Challenges and potential solutions
 3.1.1 Costs
 
 
@@ -53,9 +56,11 @@ How the traditional automakers as well as industry entrants might tackle these s
 
 https://www.mckinsey.com/~/media/McKinsey/Industries/Automotive%20and%20Assembly/Our%20Insights/McKinsey%20Electric%20Vehicle%20Index%20Europe%20cushions%20a%20global%20plunge%20in%20EV%20sales/McKinsey-Electric-Vehicle-Index-Europe-cushions-a-global-plunge-in-EV-sales-vF.pdf
 
+https://www.mckinsey.com/~/media/mckinsey/industries/automotive%20and%20assembly/our%20insights/the%20road%20ahead%20for%20e%20mobility/the-road-ahead-for-e-mobility-vf.pdf
+
 https://www.alixpartners.com/media/14637/ap_di_auto_2020.pdf
 
-
+https://www.marketsandmarkets.com/Market-Reports/hybrid-vehicle-market-159441728.html
 
 
 
