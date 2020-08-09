@@ -1,4 +1,4 @@
-Automotive Powertrain Innovations & Trends 2020: Hybrid vs. Electrification vs. XX
+Automotive Electrification Innovations & Trends 2020: How does the industry react to evolving markets?
 
 https://www.startus-insights.com/innovators-guide/automotive-industry-trends-10-innovations-that-will-impact-automotive-companies-in-2020-beyond/
 
@@ -9,6 +9,15 @@ https://www.startus-insights.com/innovators-guide/automotive-industry-trends-10-
 
 
 scihub
+
+
+Exec summary/ key facts:
+- EV sales are increasing
+- EV market penetration is increasing
+- EV market dynamics vary strongly by regions
+- EV model range is drastically increasing
+- Perceived consumer benefits outline importance of driving experience
+- Major perceived consumer concerns are battery and charging, driving range and costs
 
 
 Titel: Industry Innovation Automotive Series ~ Electrification
@@ -26,12 +35,12 @@ Interestingly, EV market growth rates varied largely between China, Europe and t
 Notably, even despite COVID-19, EV market penetration rose by 0.3 percent in the first quarter of 2020 and is now at 2.8 percent. 
 The following more detailed industry insights are drawn from three major sources, namely, the McKinsey EVI insights, the AlixPartners Disruption Insights and the McKinsey 'The road ahead for e-mobility' article. (links einfuegen) 
 
-2.1 Hybrid
+2.1 Hybrid-electric vehicles
 Hybrid-electric vehicles as well as plug-in hybrid-electric vehicles are forecasted to rise in sales volume over the next 5-10 years though growing underproportionately to BEVs. Furthermore, Ruth Heuss (McKinsey senior partner, Berlin) forecasts that the number of available hybrid-electric derivates will remain less than half of the number of available BEH derivates. She grounds this prediction in the fact that global HEV sales made less than 33% of the total EV sales in 2019. These findings are supported by multiple major industry insights like the aforementioned McKinsey article, AlixPartners Disruption Insights and market research reports like this one (links einfuegen). 
 
-2.2 Battery electric vehicle
-According to AlixPartners Disruption Insights 2020 on the automotive industry, sales of battery-electric vehicles and hybrid vehicles have increased by 85 percent from 2017 - 2019 which fits the data shown in the McKinsey article. Predictions of AlixPartners show an increase in both plug-in electric vehicle sales as well as in hybrid-electric vehicle sales, with battery-electric vehicles accounting for 13 percent of the global sales share in 2025. Therefore, virtually every automaker invests or is going to invest in electrification adding up to a total announced investment of 295 billion dollars for the years between 2019 and 2023. 
-These investments seem not to be arbitrary. An AlixPartners consumer survey (link einfuegen) revealed that more than one quarter of the surveyed group intended to buy a battery-electric vehicle as their next car. As expected, this intent does not come without concerns which the automotive industry has to address in order to turn the heavy investments into real sales. According to the aforementioned survey, consumers are especially concerned about cost, battery rangeconsumers are especially concerned about cost, battery range and charging infrastructure.
+2.2 Battery-electric vehicles
+According to AlixPartners Disruption Insights 2020 on the automotive industry, sales of battery-electric vehicles and hybrid vehicles have increased by 85 percent from 2017 - 2019 which fits the data shown in the McKinsey article. Predictions of AlixPartners show an increase in both plug-in hybrid electric vehicle sales as well as in battery-electric vehicles accounting for a combined 13 percent of the global sales share in 2025. Therefore, it is quite understandable that virtually every automaker has announced to invest in electrification adding up to a total investment of 295 billion dollars for the years from 2019 to 2023. However, in order for these investments to break even, the market has to increase its relatively small market penetration of about 2.8 percent. 
+In this equation the consumers play the key role. An AlixPartners consumer survey (link einfuegen) revealed that more than one quarter of the surveyed group intended to buy a battery-electric vehicle as their next car. As expected, this intent does not come without concerns which the automotive industry has to address in order to turn the heavy investments into real sales. According to the aforementioned survey, consumers are especially concerned about cost, battery range and charging infrastructure. A second consumer survey done by McKinsey goes into even more detail. 
 How the traditional automakers as well as industry entrants might tackle these specific challenges is going to be further explained in the next section.
 A second consumer survey conducted by McKinsey enhances these concerns by ... . Altogehter, these concerns impose strict challenges onto the automotive industry as consumer demands are unlikely to increase substantially without tangiable responses to the consumer needs. 
 So what are the most probable ways automakers are going to deal with said concerns?
@@ -49,10 +58,13 @@ So what are the most probable ways automakers are going to deal with said concer
 
 (4 Future technologies beyond electrification)
 
-5 Discussion
+5 Classification of innovation according to Clayton Christensen
+-> Sustaining innovation
+
+6 Discussion
 
 
-6 Citations
+7 Citations
 
 https://www.mckinsey.com/~/media/McKinsey/Industries/Automotive%20and%20Assembly/Our%20Insights/McKinsey%20Electric%20Vehicle%20Index%20Europe%20cushions%20a%20global%20plunge%20in%20EV%20sales/McKinsey-Electric-Vehicle-Index-Europe-cushions-a-global-plunge-in-EV-sales-vF.pdf
 
