@@ -1,4 +1,4 @@
-Automotive Electrification Innovations & Trends 2020: How does the industry react to evolving markets?
+Automotive Electrification Innovations & Trends 2020: How does the industry react to recent market dynamics?
 
 https://www.startus-insights.com/innovators-guide/automotive-industry-trends-10-innovations-that-will-impact-automotive-companies-in-2020-beyond/
 
@@ -40,10 +40,46 @@ Hybrid-electric vehicles as well as plug-in hybrid-electric vehicles are forecas
 
 2.2 Battery-electric vehicles
 According to AlixPartners Disruption Insights 2020 on the automotive industry, sales of battery-electric vehicles and hybrid vehicles have increased by 85 percent from 2017 - 2019 which fits the data shown in the McKinsey article. Predictions of AlixPartners show an increase in both plug-in hybrid electric vehicle sales as well as in battery-electric vehicles accounting for a combined 13 percent of the global sales share in 2025. Therefore, it is quite understandable that virtually every automaker has announced to invest in electrification adding up to a total investment of 295 billion dollars for the years from 2019 to 2023. However, in order for these investments to break even, the market has to increase its relatively small market penetration of about 2.8 percent. 
-In this equation the consumers play the key role. An AlixPartners consumer survey (link einfuegen) revealed that more than one quarter of the surveyed group intended to buy a battery-electric vehicle as their next car. As expected, this intent does not come without concerns which the automotive industry has to address in order to turn the heavy investments into real sales. According to the aforementioned survey, consumers are especially concerned about cost, battery range and charging infrastructure. A second consumer survey done by McKinsey goes into even more detail. 
+In this equation the consumers play a key role. An AlixPartners consumer survey (link einfuegen) revealed that more than one quarter of the surveyed group intended to buy a battery-electric vehicle as their next car. As expected, this intent does not come without concerns which the automotive industry has to address in order to turn the heavy investments into real sales. According to the aforementioned survey, consumers are especially concerned about cost, battery range and charging infrastructure. A second consumer survey done by McKinsey goes into even more detail. 
 How the traditional automakers as well as industry entrants might tackle these specific challenges is going to be further explained in the next section.
 A second consumer survey conducted by McKinsey enhances these concerns by ... . Altogehter, these concerns impose strict challenges onto the automotive industry as consumer demands are unlikely to increase substantially without tangiable responses to the consumer needs. 
 So what are the most probable ways automakers are going to deal with said concerns?
+
+
+
+According to AlixPartners's Disruption Insights 2020 on the automotive industry, sales of battery-electric vehicles and hybrid vehicles have increased by 85 percent from 2017 - 2019 which fits the data shown in the previously mentioned McKinsey article. Predictions of AlixPartners indicate an increase in both plug-in hybrid electric vehicle sales as well as in battery-electric vehicle sales leading to a combined global sales share of 13 percent in 2025. 
+This would mean an increase in sales by more than fourfold compared to a combined 3 percent market penetration in 2019.
+Therefore, it seems quite understandable that virtually every automaker has announced to invest in electrification adding up to a total investment of 295 billion dollars for the years from 2019 to 2023. 
+However, in order for these investments to eventually break even, the market needs to adopt to the new technologies in ways that lead to increased consumer acceptance. According to a recent McKinsey consumer survey, the bottleneck of EV success seems to be the consumer, not the technology. As outlined in the report, even currently accessible EV technology is able to satisfy day-to-day consumer needs in terms of range and charging speed. Still, relatively low purchase rates of EVs indicate major concerns which yet seem to be unresolved. Namely, the McKinsey survey identifies 5 major consumer concerns: Battery and charging, driving range, high costs, car experience and vehicle availability and sales.
+Interestingly, battery and charging and driving range combined account for more than 50% of the perceived concerns. 
+
+
+
+Reasoning structure:
+1) Growth of BEVs and PHEVs
+2) Heavy investments
+3) For investments to break even, market share of EVs needs to rise
+4) For market share to rise, consumers need to opt-in on trend
+5) Consumer surveys from Alix and McKinsey point out following major consumer concerns
+6) Market needs vary largely between regions, short explanation of D/E segment focus of US costumers vs. A/B segment focus of chinese costumers
+
+First things first: 
+- Innovation Insta Channels nachschauen, content benchmark ist world economic forum
+
+
+
+Fuer weitere Infos kann ich mich an Jenny Rosenau ODER Jenny Jacke/ Jaake oder Jaacke??? von GO wenden und auf Gespraech mit Herrn Rudolph im ICE beziehen
+In der Mail fuer weitere Infos genau angeben, welche Infos mir helfen wuerden!!! 
+Infos in Bezug auf Taycan Sales, Vorbestellungen
+
+Infos von Herrn Rudolph (oeffentlich kommuniziert):
+- 30.000 Taycan Vorbestellungen eingegangen (keine Infos ueber Conversion Rate Vorbestellung -> Purchase bekannt)
+- 20.000 Produktionskapazitaet fuer 2020 ausgelastet
+- 15 Milliarden werden in Innovation ueber die kommenden Jahre investiert
+- R&D Invest fuer Taycan kommuniziert?
+
+Koennte man evtl. in jedem Artikel ein Fallbespiel mit reinbringen? Hier dann Porsche Taycan als konkretes Beispiel
+
 
 3 Automotive Electrification ~ 20 - 25 year outlook
 3.1 Challenges and potential solutions
@@ -60,7 +96,8 @@ So what are the most probable ways automakers are going to deal with said concer
 
 5 Classification of innovation according to Clayton Christensen
 -> Sustaining innovation
-
+-> New type of innovatin might be needed to explain automotive electrification as it doens't fit the typical sustaining innovation that results from a specific costumer need
+  -> 'Enforced innovation'
 6 Discussion
 
 
