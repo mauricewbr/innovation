@@ -61,14 +61,14 @@ Influenced by:
 -> battery costs
 -> other costs?
 
-Subsidies in Germany (04.06.2020 - 31.12.2021):
--> vehicles priced up to 40k receive up to 9k
--> vehicles priced up to 65k receive up to 7,5k
 
-Subsidies in China:
+Electric vehicle costs are dependent on several factors. Obviously, the price of core components like the battery technology severely contributes to the total vehicle price. However, government subsidies, tax exemptions and licensing incentives impose critical sales drivers in many countries as part of electrification transformation plans. Studies (link einfuegen) have found government subsidies to influence customers' purchase decisions by offering a monetary incentive to the customer and additionally a marketing value to the manufacturer. Having introduced subsidy plans more than a decade ago, multiple countries have aimed at phasing out of the plans by the end of 2020. However, COVID-19 has led countries to overthink their timeline  and leave subsidy plans intact. 
+China, even though delaying the phasing out of subsidies by another 2 years to the end of 2022, has announced to reduce all subsidies by 10 percent in 2020. Similary, the regulations for eligibility of the subsidies got more strict, now being exclusively accessible to vehicles which have been produced locally.
+Germany, in contrast, has announced to even increase direct monetary subsidies after the beginning of June 2020 to 9.000 Euros for vehicles priced up to 40.000 Euros and 7.500 Euros for vehicles priced up to 65.000 Euros.
+Besides the monetary subsidies, there are non-monetary incetives as well. A lot of countries offer value to electric vehicle owners in the form of separate parking spaces, special driving lane access and road toll fee waivers (Studie zitieren).
 
-Subsidies in the US:
 
+twitch title: [Day 9] Innovation research stream ~ Automotive electrification
 
 
 3.1.2 Battery range
@@ -116,6 +116,18 @@ https://wallbox.com/en_catalog/ev-incentives-in-germany#EVIncentives
 Effect of EV purchase incentives on vehicle sales:
 https://www.sciencedirect.com/science/article/pii/S0140988319302749
 
+Chinese subsidies:
+https://www.electrive.com/2020/04/01/china-considers-extending-ev-subsidies/
+https://cleantechnica.com/2020/04/27/chinas-ev-incentive-changes-in-2020/
+https://www.reuters.com/article/us-china-autos-electric-subsidies/china-to-cut-new-energy-vehicle-subsidies-by-10-this-year-idUSKCN225177
+https://www.bloomberg.com/news/articles/2020-04-01/china-mulling-cutting-electric-car-subsidies-it-just-extended
+
+US subsidies:
+https://en.wikipedia.org/wiki/Government_incentives_for_plug-in_electric_vehicles
+
+Non-financial subsidies:
+https://www.sciencedirect.com/science/article/abs/pii/S096585641730486X
+
 SIDE NOTES:
 - France is banning all ICE vehicle sales by 2040
 
@@ -131,6 +143,21 @@ Reasoning structure for 2.2:
 5) Consumer surveys from Alix and McKinsey point out following major consumer concerns
 6) Market needs vary largely between regions, short explanation of D/E segment focus of US costumers vs. A/B segment focus of chinese costumers
 
+
+Subsidies in Germany (04.06.2020 - 31.12.2021):
+-> vehicles priced up to 40k receive up to 9k
+-> vehicles priced up to 65k receive up to 7,5k
+
+Subsidies in China:
+-> subsidies were planned to be canceled after 2020 but remain intact until end of 2022 due to COVID-19
+-> still, subsidies are cut by 10 percent this year, 20 percent 2021 and 30 percent 2022
+-> current rate for > 400 km range remain uneffected at 25k yuan
+-> subsidies only for locally produced vehicles with list price under 300k yuan with some exceptions
+
+Subsidies in the US:
+-> federal tax credit from 2.5k to 7.5k for any car manufacturer that has not already sold more than 200k units of PEVs
+-> Tesla and GM already phased out of the subsidies
+-> Some states have their own regulations like California providing subsidies
 
 1. Youtube recherche gaming view time
 
