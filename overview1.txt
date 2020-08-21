@@ -1,0 +1,29 @@
+This might going to be released before the first deep dive is posted.
+
+Concept:
+  3 key news about innovation
+  1 book recommendation
+  1 startup spotlight
+  1 teaser of deep dive/ or deep dive
+  +/- Product presentation e.g. Porsche Taycan
+
+
+Turnus:
+  Woche 1: Overview + Teaser
+  Woche 2: Overview + Deep Dive
+  Woche 3: Overview + Teaser
+  Woche 4: Overview + Deep Dive
+
+Deep dive ideen:
+  electrification
+  air taxis (feasibility study by Porsche Consulting)
+  SpaceX
+  Boring Company
+  NeuroLink
+  Innovator's Dilemma
+
+
+In the long run:
+  Fragebogen fuer Unternehmen rausschicken + eigenen Analyse der Unternehmensperformance (evtl. mit McKinsey Innovation Metrics) um laengerfristig eigene Innovation database anzulegen
+
+
